@@ -82,6 +82,7 @@ h2 {
     flex-wrap: wrap;
     gap: 1rem;
     margin-left: 22%;
+    text-align: center;
 }
 
 .mentor-card {
